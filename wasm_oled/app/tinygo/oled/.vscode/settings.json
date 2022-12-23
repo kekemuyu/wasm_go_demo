@@ -1,0 +1,8 @@
+{
+    "go.toolsEnvVars": {
+        "GOOS": "js",
+        "GOARCH": "wasm",
+        "GOROOT": "C:\\Users\\wildgeek\\AppData\\Local\\tinygo\\goroot-02db573155efcd1a99084c238a455da81cb88d42825f0fc72b5783ffb40a7549",
+        "GOFLAGS": "-tags=tinygo.wasm,tinygo,math_big_pure_go,gc.conservative,scheduler.asyncify,serial.none"
+    }
+}
